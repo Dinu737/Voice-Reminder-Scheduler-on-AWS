@@ -1,0 +1,24 @@
+voice-reminder-scheduler/
+│
+├── lambda_function.py
+├── requirements.txt
+├── test-event.json
+├── .gitignore
+├── LICENSE
+├── architecture-diagram.png
+├── architecture-diagram.drawio
+├── README.md
+│
+├── docs/
+│   ├── project-flow.md
+│   └── setup-guide.md
+│
+└── screenshots/
+    ├── 01-api-gateway.png
+    ├── 02-lambda-function.png
+    ├── 03-polly-test.png
+    ├── 04-s3-bucket.png
+    ├── 05-sns-topic.png
+    ├── 06-email-notification.png
+    ├── 07-eventbridge-rule.png
+    └── 08-final-output.png
